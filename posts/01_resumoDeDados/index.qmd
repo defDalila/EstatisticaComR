@@ -1,0 +1,16 @@
+---
+title: "Resumindo e Analisando Dados"
+description: ""
+author: "Dalila Mendonça"
+date: "2025-10-04"
+categories: [data, analysis]
+image: "image.png"
+---
+
+## Introdução
+
+![](image.png){style="float:right" width="350"}
+
+Resumir e analisar dados consiste em transformar informações brutas em insights úteis, utilizando estatística, visualizações, interpretação e ferramentas de análise para apoiar decisões estratégicas.
+
+Analisar dados vai além de observar números em uma planilha; é um processo sistemático que converte informações brutas em conhecimento aplicável. Envolve inspeção, limpeza, transformação e modelagem dos dados para descobrir padrões, tendências, correlações e insights . Esse tipo de análise permite entender o comportamento de clientes, prever eventos futuros e otimizar processos em empresas, governos e pesquisas acadêmicas .

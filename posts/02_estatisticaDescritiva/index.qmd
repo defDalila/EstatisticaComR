@@ -1,0 +1,11 @@
+---
+title: "O que é Estatística Descritiva?"
+author: "Dalila Mendonça"
+date: "2025-10-05"
+categories: [summarize data, Descriptive statistics]
+image: "image.jpg"
+---
+
+## Introdução
+
+![](image.jpg){style="float:right" width="399"}

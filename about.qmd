@@ -1,0 +1,16 @@
+---
+title: "Dalila Mendonça"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/defdalila/
+    - icon: github
+      text: Github
+      href: https://www.github.com/defDalila
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/defdalila/
+---

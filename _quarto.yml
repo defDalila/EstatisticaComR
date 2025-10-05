@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  description: "Conteúdo sobre estatística utilizando a linguagem R"
+  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  title: "Estatistica Com R"
+  navbar:
+    right:
+      - text: About
+        href: about.qmd
+      - icon: github
+        href: https://www.github.com/defDalila
+      - icon: linkedin
+        href: https://www.linkedin.com/in/defdalila/
+format:
+  html:
+    theme:
+      - quartz
+      - brand
+    css: styles.css
+    lang: "pt-BR"
+
+editor: visual
+
