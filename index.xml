@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Estatistica Com R</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>Conteúdo sobre estatística utilizando a linguagem R</description>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Sun, 05 Oct 2025 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>O que é Estatística Descritiva?</title>
+  <dc:creator>Dalila Mendonça</dc:creator>
+  <link>https://your-website-url.example.com/posts/02_estatisticaDescritiva/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="introdução" class="level2">
+<h2 class="anchored" data-anchor-id="introdução">Introdução</h2>
+<p><img src="https://your-website-url.example.com/posts/02_estatisticaDescritiva/image.jpg" class="img-fluid" style="float:right" width="399"></p>
+
+
+</section>
+
+ ]]></description>
+  <category>summarize data</category>
+  <category>Descriptive statistics</category>
+  <guid>https://your-website-url.example.com/posts/02_estatisticaDescritiva/</guid>
+  <pubDate>Sun, 05 Oct 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/02_estatisticaDescritiva/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Resumindo e Analisando Dados</title>
+  <dc:creator>Dalila Mendonça</dc:creator>
+  <link>https://your-website-url.example.com/posts/01_resumoDeDados/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="introdução" class="level2">
+<h2 class="anchored" data-anchor-id="introdução">Introdução</h2>
+<p><img src="https://your-website-url.example.com/posts/01_resumoDeDados/image.png" class="img-fluid" style="float:right" width="350"></p>
+<p>Resumir e analisar dados consiste em transformar informações brutas em insights úteis, utilizando estatística, visualizações, interpretação e ferramentas de análise para apoiar decisões estratégicas.</p>
+<p>Analisar dados vai além de observar números em uma planilha; é um processo sistemático que converte informações brutas em conhecimento aplicável. Envolve inspeção, limpeza, transformação e modelagem dos dados para descobrir padrões, tendências, correlações e insights . Esse tipo de análise permite entender o comportamento de clientes, prever eventos futuros e otimizar processos em empresas, governos e pesquisas acadêmicas .</p>
+
+
+</section>
+
+ ]]></description>
+  <category>data</category>
+  <category>analysis</category>
+  <guid>https://your-website-url.example.com/posts/01_resumoDeDados/</guid>
+  <pubDate>Sat, 04 Oct 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/01_resumoDeDados/image.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+</channel>
+</rss>
